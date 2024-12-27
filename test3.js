@@ -1,0 +1,1 @@
+console("Don't throw an error")
