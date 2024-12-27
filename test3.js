@@ -1,1 +1,1 @@
-console("Don't throw an error")
+console.log("Don't throw an error")
